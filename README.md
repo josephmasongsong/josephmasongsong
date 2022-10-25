@@ -4,7 +4,7 @@
 
 👨🏾‍💻 Digitally, I live @ [www.josephmasongsong.com](https://www.josephmasongsong.com)
 
-🤘 I wasted time and had fun designing these badges and this `README`.
+🤘🏾 I wasted time and had fun designing these badges and this `README`.
 
 ---
 
