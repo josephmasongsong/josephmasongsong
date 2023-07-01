@@ -27,8 +27,6 @@
 
 <img src="https://img.shields.io/badge/-Prismic-000000?style=flat&logo=prismic&logoColor=#5163BA"> <img src="https://img.shields.io/badge/-Contentful-000000?style=flat&logo=contentful&logoColor=2478CC">
 
-🤷🏾‍♂️ I guess I'm full-stack, or a generalist?
-
 ---
 
 ## ![josephmasongsong's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=josephmasongsong&show_icons=true&locale=en&layout=compact&exclude_repo=super-simple-ui)
